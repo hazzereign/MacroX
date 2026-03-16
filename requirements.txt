@@ -1,0 +1,7 @@
+keyboard
+pyautogui
+pydirectinput
+datetime
+colorama
+requests
+sys

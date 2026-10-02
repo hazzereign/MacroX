@@ -12,7 +12,7 @@ This was made for those whose keyboard is trash and doesn't accept multiple keys
 1. Install the required packages found in requirements.txt using pip
 2. Get the latest MacroX main.py file
 3. Run it.
-- I highly recommend you to run the file on the Windows console, but you can run on wherever yuo want to.
+- I highly recommend you to run the file on the Windows console, but you can run on wherever you want to.
 
 # Credits
 - Created by @hazzereign & @yorioncheat.

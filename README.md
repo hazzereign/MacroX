@@ -1,3 +1,4 @@
+![Banner](./macrox.png)
 # MacroX
 This macro helps you to enhance your movement in any fast-paced shooting game, especially for SNIPER DUELS.<br>
 It also contains an automatic checker that checks if ROBLOX is down, using requests.<br>
